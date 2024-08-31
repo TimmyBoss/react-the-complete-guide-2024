@@ -5,7 +5,7 @@ import Examples from "./components/Examples.jsx";
 function App() {
   return (
     <>
-      <Header />
+   <Header />
       <main>
         <CoreConcepts />
         <Examples />
